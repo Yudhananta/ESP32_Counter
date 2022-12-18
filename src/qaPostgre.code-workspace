@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../../../../xampp/htdocs/qaPostgre"
+	},
+	{
+		"name": "Auto",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
